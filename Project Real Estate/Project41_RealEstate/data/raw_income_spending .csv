@@ -1,0 +1,191 @@
+"SAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income",,,,
+ ,,,,
+Bureau of Economic Analysis ,,,,
+State or DC,,,,
+GeoFips,GeoName,LineCode,Description,2020
+0,United States,1,Personal income (millions of dollars),19607447
+0,United States,2,Population (persons) 1/,329484123
+0,United States,3,Per capita personal income (dollars) 2/,59510
+1000,Alabama,1,Personal income (millions of dollars),228748.8
+1000,Alabama,2,Population (persons) 1/,4921532
+1000,Alabama,3,Per capita personal income (dollars) 2/,46479
+2000,Alaska *,1,Personal income (millions of dollars),46430.3
+2000,Alaska *,2,Population (persons) 1/,731158
+2000,Alaska *,3,Per capita personal income (dollars) 2/,63502
+4000,Arizona,1,Personal income (millions of dollars),368458.6
+4000,Arizona,2,Population (persons) 1/,7421401
+4000,Arizona,3,Per capita personal income (dollars) 2/,49648
+5000,Arkansas,1,Personal income (millions of dollars),143147.9
+5000,Arkansas,2,Population (persons) 1/,3030522
+5000,Arkansas,3,Per capita personal income (dollars) 2/,47235
+6000,California,1,Personal income (millions of dollars),2763312
+6000,California,2,Population (persons) 1/,39368078
+6000,California,3,Per capita personal income (dollars) 2/,70192
+8000,Colorado,1,Personal income (millions of dollars),370392.1
+8000,Colorado,2,Population (persons) 1/,5807719
+8000,Colorado,3,Per capita personal income (dollars) 2/,63776
+9000,Connecticut,1,Personal income (millions of dollars),279612.4
+9000,Connecticut,2,Population (persons) 1/,3557006
+9000,Connecticut,3,Per capita personal income (dollars) 2/,78609
+10000,Delaware,1,Personal income (millions of dollars),55357.4
+10000,Delaware,2,Population (persons) 1/,986809
+10000,Delaware,3,Per capita personal income (dollars) 2/,56097
+11000,District of Columbia,1,Personal income (millions of dollars),61706.1
+11000,District of Columbia,2,Population (persons) 1/,712816
+11000,District of Columbia,3,Per capita personal income (dollars) 2/,86567
+12000,Florida,1,Personal income (millions of dollars),1209995.9
+12000,Florida,2,Population (persons) 1/,21733312
+12000,Florida,3,Per capita personal income (dollars) 2/,55675
+13000,Georgia,1,Personal income (millions of dollars),554566.5
+13000,Georgia,2,Population (persons) 1/,10710017
+13000,Georgia,3,Per capita personal income (dollars) 2/,51780
+15000,Hawaii *,1,Personal income (millions of dollars),82527.3
+15000,Hawaii *,2,Population (persons) 1/,1407006
+15000,Hawaii *,3,Per capita personal income (dollars) 2/,58655
+16000,Idaho,1,Personal income (millions of dollars),89077.7
+16000,Idaho,2,Population (persons) 1/,1826913
+16000,Idaho,3,Per capita personal income (dollars) 2/,48759
+17000,Illinois,1,Personal income (millions of dollars),792135.5
+17000,Illinois,2,Population (persons) 1/,12587530
+17000,Illinois,3,Per capita personal income (dollars) 2/,62930
+18000,Indiana,1,Personal income (millions of dollars),350759.5
+18000,Indiana,2,Population (persons) 1/,6754953
+18000,Indiana,3,Per capita personal income (dollars) 2/,51926
+19000,Iowa,1,Personal income (millions of dollars),169181.6
+19000,Iowa,2,Population (persons) 1/,3163561
+19000,Iowa,3,Per capita personal income (dollars) 2/,53478
+20000,Kansas,1,Personal income (millions of dollars),163462.2
+20000,Kansas,2,Population (persons) 1/,2913805
+20000,Kansas,3,Per capita personal income (dollars) 2/,56099
+21000,Kentucky,1,Personal income (millions of dollars),211947.6
+21000,Kentucky,2,Population (persons) 1/,4477251
+21000,Kentucky,3,Per capita personal income (dollars) 2/,47339
+22000,Louisiana,1,Personal income (millions of dollars),236327.2
+22000,Louisiana,2,Population (persons) 1/,4645318
+22000,Louisiana,3,Per capita personal income (dollars) 2/,50874
+23000,Maine,1,Personal income (millions of dollars),73192.8
+23000,Maine,2,Population (persons) 1/,1350141
+23000,Maine,3,Per capita personal income (dollars) 2/,54211
+24000,Maryland,1,Personal income (millions of dollars),404520.7
+24000,Maryland,2,Population (persons) 1/,6055802
+24000,Maryland,3,Per capita personal income (dollars) 2/,66799
+25000,Massachusetts,1,Personal income (millions of dollars),540855.3
+25000,Massachusetts,2,Population (persons) 1/,6893574
+25000,Massachusetts,3,Per capita personal income (dollars) 2/,78458
+26000,Michigan,1,Personal income (millions of dollars),530808.6
+26000,Michigan,2,Population (persons) 1/,9966555
+26000,Michigan,3,Per capita personal income (dollars) 2/,53259
+27000,Minnesota,1,Personal income (millions of dollars),350784.7
+27000,Minnesota,2,Population (persons) 1/,5657342
+27000,Minnesota,3,Per capita personal income (dollars) 2/,62005
+28000,Mississippi,1,Personal income (millions of dollars),124988.2
+28000,Mississippi,2,Population (persons) 1/,2966786
+28000,Mississippi,3,Per capita personal income (dollars) 2/,42129
+29000,Missouri,1,Personal income (millions of dollars),318019.1
+29000,Missouri,2,Population (persons) 1/,6151548
+29000,Missouri,3,Per capita personal income (dollars) 2/,51697
+30000,Montana,1,Personal income (millions of dollars),57660.2
+30000,Montana,2,Population (persons) 1/,1080577
+30000,Montana,3,Per capita personal income (dollars) 2/,53361
+31000,Nebraska,1,Personal income (millions of dollars),111545
+31000,Nebraska,2,Population (persons) 1/,1937552
+31000,Nebraska,3,Per capita personal income (dollars) 2/,57570
+32000,Nevada,1,Personal income (millions of dollars),168587.3
+32000,Nevada,2,Population (persons) 1/,3138259
+32000,Nevada,3,Per capita personal income (dollars) 2/,53720
+33000,New Hampshire,1,Personal income (millions of dollars),91673.1
+33000,New Hampshire,2,Population (persons) 1/,1366275
+33000,New Hampshire,3,Per capita personal income (dollars) 2/,67097
+34000,New Jersey,1,Personal income (millions of dollars),652498.9
+34000,New Jersey,2,Population (persons) 1/,8882371
+34000,New Jersey,3,Per capita personal income (dollars) 2/,73460
+35000,New Mexico,1,Personal income (millions of dollars),97603.5
+35000,New Mexico,2,Population (persons) 1/,2106319
+35000,New Mexico,3,Per capita personal income (dollars) 2/,46338
+36000,New York,1,Personal income (millions of dollars),1440049.5
+36000,New York,2,Population (persons) 1/,19336776
+36000,New York,3,Per capita personal income (dollars) 2/,74472
+37000,North Carolina,1,Personal income (millions of dollars),533269.3
+37000,North Carolina,2,Population (persons) 1/,10600823
+37000,North Carolina,3,Per capita personal income (dollars) 2/,50305
+38000,North Dakota,1,Personal income (millions of dollars),47089.3
+38000,North Dakota,2,Population (persons) 1/,765309
+38000,North Dakota,3,Per capita personal income (dollars) 2/,61530
+39000,Ohio,1,Personal income (millions of dollars),627231.3
+39000,Ohio,2,Population (persons) 1/,11693217
+39000,Ohio,3,Per capita personal income (dollars) 2/,53641
+40000,Oklahoma,1,Personal income (millions of dollars),198552.1
+40000,Oklahoma,2,Population (persons) 1/,3980783
+40000,Oklahoma,3,Per capita personal income (dollars) 2/,49878
+41000,Oregon,1,Personal income (millions of dollars),238847.1
+41000,Oregon,2,Population (persons) 1/,4241507
+41000,Oregon,3,Per capita personal income (dollars) 2/,56312
+42000,Pennsylvania,1,Personal income (millions of dollars),788725.2
+42000,Pennsylvania,2,Population (persons) 1/,12783254
+42000,Pennsylvania,3,Per capita personal income (dollars) 2/,61700
+44000,Rhode Island,1,Personal income (millions of dollars),64299.9
+44000,Rhode Island,2,Population (persons) 1/,1057125
+44000,Rhode Island,3,Per capita personal income (dollars) 2/,60825
+45000,South Carolina,1,Personal income (millions of dollars),250573.6
+45000,South Carolina,2,Population (persons) 1/,5218040
+45000,South Carolina,3,Per capita personal income (dollars) 2/,48021
+46000,South Dakota,1,Personal income (millions of dollars),52920.7
+46000,South Dakota,2,Population (persons) 1/,892717
+46000,South Dakota,3,Per capita personal income (dollars) 2/,59281
+47000,Tennessee,1,Personal income (millions of dollars),351546.3
+47000,Tennessee,2,Population (persons) 1/,6886834
+47000,Tennessee,3,Per capita personal income (dollars) 2/,51046
+48000,Texas,1,Personal income (millions of dollars),1618635.1
+48000,Texas,2,Population (persons) 1/,29360759
+48000,Texas,3,Per capita personal income (dollars) 2/,55129
+49000,Utah,1,Personal income (millions of dollars),169656.3
+49000,Utah,2,Population (persons) 1/,3249879
+49000,Utah,3,Per capita personal income (dollars) 2/,52204
+50000,Vermont,1,Personal income (millions of dollars),36894.2
+50000,Vermont,2,Population (persons) 1/,623347
+50000,Vermont,3,Per capita personal income (dollars) 2/,59187
+51000,Virginia,1,Personal income (millions of dollars),532256.2
+51000,Virginia,2,Population (persons) 1/,8590563
+51000,Virginia,3,Per capita personal income (dollars) 2/,61958
+53000,Washington,1,Personal income (millions of dollars),516441.1
+53000,Washington,2,Population (persons) 1/,7693612
+53000,Washington,3,Per capita personal income (dollars) 2/,67126
+54000,West Virginia,1,Personal income (millions of dollars),80304.1
+54000,West Virginia,2,Population (persons) 1/,1784787
+54000,West Virginia,3,Per capita personal income (dollars) 2/,44994
+55000,Wisconsin,1,Personal income (millions of dollars),324252
+55000,Wisconsin,2,Population (persons) 1/,5832655
+55000,Wisconsin,3,Per capita personal income (dollars) 2/,55593
+56000,Wyoming,1,Personal income (millions of dollars),36019.8
+56000,Wyoming,2,Population (persons) 1/,582328
+56000,Wyoming,3,Per capita personal income (dollars) 2/,61855
+91000,New England,1,Personal income (millions of dollars),1086527.7
+91000,New England,2,Population (persons) 1/,14847468
+91000,New England,3,Per capita personal income (dollars) 2/,73179
+92000,Mideast,1,Personal income (millions of dollars),3402857.8
+92000,Mideast,2,Population (persons) 1/,48757828
+92000,Mideast,3,Per capita personal income (dollars) 2/,69791
+93000,Great Lakes,1,Personal income (millions of dollars),2625186.9
+93000,Great Lakes,2,Population (persons) 1/,46834910
+93000,Great Lakes,3,Per capita personal income (dollars) 2/,56052
+94000,Plains,1,Personal income (millions of dollars),1213002.7
+94000,Plains,2,Population (persons) 1/,21481834
+94000,Plains,3,Per capita personal income (dollars) 2/,56466
+95000,Southeast,1,Personal income (millions of dollars),4457671.5
+95000,Southeast,2,Population (persons) 1/,85565785
+95000,Southeast,3,Per capita personal income (dollars) 2/,52096
+96000,Southwest,1,Personal income (millions of dollars),2283249.3
+96000,Southwest,2,Population (persons) 1/,42869262
+96000,Southwest,3,Per capita personal income (dollars) 2/,53261
+97000,Rocky Mountain,1,Personal income (millions of dollars),722806.1
+97000,Rocky Mountain,2,Population (persons) 1/,12547416
+97000,Rocky Mountain,3,Per capita personal income (dollars) 2/,57606
+98000,Far West,1,Personal income (millions of dollars),3816145
+98000,Far West,2,Population (persons) 1/,56579620
+98000,Far West,3,Per capita personal income (dollars) 2/,67447
+Legend / Footnotes:,,,,
+1/ Census Bureau midyear population estimate. Estimates for 2010-2020 reflect Census Bureau midyear state population estimates available as of December 2020. These population estimates are based on the 2010 census. BEA will incorporate Census Bureau midyear population estimates based on the 2020 census results when they become available.,,,,
+2/ Per capita personal income is total personal income divided by total midyear population. BEA state per capita personal income statistics are calculated using Census Bureau midyear population estimates. These annual midyear estimates are based on the 2010 census. BEA will incorporate Census Bureau midyear population estimates based on the 2020 census results when they become available.,,,,
+* Estimates prior to 1950 are not available for Alaska and Hawaii.,,,,
+Note. All dollar estimates are in millions of current dollars (not adjusted for inflation). Calculations are performed on unrounded data.,,,,
+"Last updated: September 23, 2021-- revised statistics for 1998-2020.",,,,
